@@ -14,8 +14,10 @@
      npm install
 3. **Запустите сервер локально**:
      npm install -g json-server
+
+   
      json-server --watch db.json
-4. **Запустите проект локально**:
+5. **Запустите проект локально**:
      npm start
 Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере.
 
